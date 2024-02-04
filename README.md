@@ -7,7 +7,7 @@
 
 #### [See it Live](https://wish-valentine.vercel.app/)
 
-# LoveNotes 💖
+# Wish Valentine 💖
 
 It's a Valentine's Day website to spread love and warmth!
 
