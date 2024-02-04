@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-vedant-dwivedi)](https://github.com/vedant-dwivedi)
 
 
-#### [See it Live](https://valentine-project-chi.vercel.app/)
+#### [See it Live](https://wish-valentine.vercel.app/)
 
 ## Make your own version :computer:
 
