@@ -33,6 +33,6 @@ If you enjoy This Project, don't forget to star the project and share it with yo
 
 ## Contact
 
-Have questions or suggestions? Reach out to me at [vedantdwivedi05404@gmail.com].
+Have questions or suggestions? Reach out to me at [ vedantdwivedi05404@gmail.com ].
 
 Enjoy the magic of This Project and make this Valentine's Day unforgettable for your loved ones! 💕
