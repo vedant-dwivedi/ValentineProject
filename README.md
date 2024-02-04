@@ -1,5 +1,5 @@
 <h1 align="center">
-    Valentine it is
+    Wish Valentine 
 </h1>
 
 [![Author](https://img.shields.io/badge/author-vedant-dwivedi)](https://github.com/vedant-dwivedi)
