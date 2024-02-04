@@ -2,7 +2,7 @@
     Valentine it is
 </h1>
 
-[![Author](https://github.com/vedant-dwivedi)
+[![Author](https://img.shields.io/badge/author-vedant-dwivedi)](https://github.com/vedant-dwivedi)
 
 
 #### [See it Live](https://valentine-project-chi.vercel.app/)
